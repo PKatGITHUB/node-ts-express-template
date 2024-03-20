@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# TypeScript build output
+build/
+*.tsbuildinfo
+
+# Yarn specific files
+yarn-error.log
+.yarn-integrity
+
+# IDE files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
